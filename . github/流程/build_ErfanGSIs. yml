@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://www.kamiui.ml/E51partition2/%E2%98%86%E5%88%B7%E6%9C%BA%E5%8C%85/%E4%B8%80%E5%8A%A0/%E4%B8%80%E5%8A%A06T/Flyme8.20.6.30_for_OnePlus6T_by_BailiWind__V2%EF%BC%882020.8.16%EF%BC%89/%28%E6%97%A0%E9%9C%80%E6%89%A9%E5%AE%B9%E7%89%88%29Flyme8.20.6.30_for_OnePlus6T_by_BailiWind_V2.zip
-  ROM_NAME: flyme
+  ROM_URL: https://otafsc.h2os.com/patch/CHN/OnePlus8ProHydrogen/OnePlus8ProHydrogen_15.Y.05_0050_2008282213/OnePlus8ProHydrogen_15_OTA_0050_all_2008282213_1239174b.zip
+  ROM_NAME: havoc
   TZ: Asia/Shanghai
 
 jobs:
